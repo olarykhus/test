@@ -1,0 +1,22 @@
+body {
+		font-family: 'Abril Fatface', cursive;
+		font-size: 18px;
+		}
+
+h1 {	color: red;
+		background-color: #ffa0a0;
+		font-size: 38px;
+		font-style: italic;
+	}
+
+h2 {	font-size: 1.5rem;
+}
+
+p {		
+		font-size:1em;
+		}
+p.storskrift {
+	font-size: 1.5em;
+}
+
+#link {font-weight:bold;}
